@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.container{
+    border: 5px solid red;
+    box-sizing: border-box;
+}
+header{
+    background-color: pink;
+    padding-bottom: 25px;
+    
+}
+.header_white{
+    
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 70%;
+    margin: 20px auto 0;
+
+}
+.header_black{
+ width: 80%;
+ margin: 0 auto;
+padding: 20px 0;
+background-color:black;
+}
+
+.bg-red{
+    background-color: red;
+}
+.bg-orange{
+    background-color:orange;
+}
+.bg-blue{
+    background-color: blue;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.nav-item{
+    width: 25%;
+    height: 200px;
+    float: left;
+}
+
+.nav{
+    padding-bottom: 15px;
+    background-color: grey;
+
+}
+.clear{
+
+clear: both;
+}
+.bg-green{
+    background-color: green;
+}
+.bg-dblue{
+    background-color: blue;
+}
+.bg-darkblue{
+    background-color: darkblue;
+}
+.mid-item{
+width: 33.333333333%;
+height: 400px;
+float: left;
+padding-bottom: 2px;
+}
+.left{
+    background-color: orange;
+    width: 70%;
+    height: 300px;
+    margin: 20px auto 0;
+}
+.a-left{
+    background-color: pink;
+    width: 50%;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+    
+    
+}
+.b-left{
+    background-color: yellow;
+    width: 50%;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+    }
+.centrLT{
+    background-color: red;
+    width: 33.33333%;
+    height: 350px;
+    margin-top: 35px;
+    float: left;
+
+}
+.A-c{
+    background-color: orange;
+    width: 50%;
+    height: 300px;
+    float: left;
+    margin-top: 34px;
+}
+.B-c{
+    background-color:red;
+    width: 50%;
+    height: 200px;
+    float: left;
+    margin-top: 134px;
+}
+
+.centrCR{
+    background-color: yellow;
+    width: 33.33333%;
+    height: 350px;
+    margin-top: 35px;
+    float: left;
+}
+.centrRT{
+    background-color: orange;
+    width: 33.3333%;
+    height: 350px;
+    margin-top: 35px;
+    float: left;
+}
+.right1{
+    background-color: blue;
+    width: 33.33%;
+    height: 200px;
+    float: left;
+    margin-top: 150px;
+}
+.right2{
+    background-color:yellow;
+    width: 33.33%;
+    height: 200px;
+    float: left;
+    margin-top: 100px;
+}
+.right3{
+    background-color:orange;
+    width: 33.33%;
+    height: 200px;
+    float: left;
+    margin-top: 50px;
+}
+.text1{
+    background-color:black;
+    width: 65%;
+    height: 20px;
+    float:right;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.text2{
+    background-color:black;
+    width: 65%;
+    height: 20px;
+    float: left;
+    text-decoration-color: white;
+}
+
